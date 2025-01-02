@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a passion for building innovative solutions and contributing to the open-source community. Below you'll find more information about me, my skills, and my projects.
 
----
-
 ## 🚀 About Me
 
 - **Name:** Mugabi Benjamin
@@ -13,8 +11,6 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a
 - **Interests:** Coding, gadgets, and learning new stuff
 
 I am currently a second-year student with a strong passion for software development. My primary focus is on web development using modern tools and technologies, but I'm always eager to explore new areas of software engineering.
-
---- 
 
 ## 🛠️ Skills
 
@@ -33,8 +29,11 @@ Here are some of the technologies and tools I work with:
 - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 - PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 - GitHub
+
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -42,8 +41,6 @@ Here are some of the technologies and tools I work with:
 - Problem-solving
 - Debugging
 - Collaboration
-
----
 
 ## 🔭 Projects
 
@@ -61,25 +58,19 @@ Here are some of the technologies and tools I work with:
 
 For a complete list of my projects, please visit my [repositories](https://github.com/mugabiBenjamin?tab=repositories).
 
----
-
 ## 📈 GitHub Stats
 
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
 
----
-
 ## 📫 How to Reach Me
 
 - **Email:** mugabiben6@gmail.com
 <!-- - **Phone:** +256778405701 -->
-- **LinkedIn:** [Benjamin Mugabi](https://www.linkedin.com/in/mugabi-benjamin-156603224/)
+- **LinkedIn:** [Mugabi Benjamin](https://www.linkedin.com/in/mugabi-benjamin-156603224/)
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and development!
-
----
 
 ## 🌱 Currently Learning
 
@@ -88,8 +79,6 @@ I'm currently expanding my knowledge in:
 - JavaScript
 - TailwindCSS
 - PostgreSQL
-
----
 
 ## 💬 Let's Connect
 
