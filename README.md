@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a passion for building innovative solutions and contributing to the open-source community. Below you'll find more information about me, my skills, and my projects.
 
+
 ## 🚀 About Me
 
 - **Name:** Mugabi Benjamin
@@ -12,35 +13,32 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a
 
 I am currently a second-year student with a strong passion for software development. My primary focus is on web development using modern tools and technologies, but I'm always eager to explore new areas of software engineering.
 
+
 ## 🛠️ Skills
 
 Here are some of the technologies and tools I work with:
 
 ### Languages
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-- PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-- CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) JavaScript
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) PHP
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) CSS
 
 ### Frameworks and Libraries
-- Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-- TailwindCSS ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) Laravel
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) TailwindCSS
 
 ### Tools and Platforms
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) MySQL
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) PostgreSQL
 - GitHub
 
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ### Other Skills
 - Problem-solving
 - Debugging
 - Collaboration
+
 
 ## 🔭 Projects
 
@@ -58,11 +56,13 @@ Here are some of the technologies and tools I work with:
 
 For a complete list of my projects, please visit my [repositories](https://github.com/mugabiBenjamin?tab=repositories).
 
+
 ## 📈 GitHub Stats
 
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
+
 
 ## 📫 How to Reach Me
 
@@ -72,6 +72,7 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and development!
 
+
 ## 🌱 Currently Learning
 
 I'm currently expanding my knowledge in:
@@ -79,6 +80,7 @@ I'm currently expanding my knowledge in:
 - JavaScript
 - TailwindCSS
 - PostgreSQL
+
 
 ## 💬 Let's Connect
 
