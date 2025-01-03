@@ -32,7 +32,6 @@ Here are some of the technologies and tools I work with:
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) PostgreSQL
 - GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Other Skills
 - Problem-solving
@@ -57,11 +56,24 @@ Here are some of the technologies and tools I work with:
 For a complete list of my projects, please visit my [repositories](https://github.com/mugabiBenjamin?tab=repositories).
 
 
+## 🌐 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
+
+
 ## 📈 GitHub Stats
 
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=radical)](https://git.io/streak-stats)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 How to Reach Me
