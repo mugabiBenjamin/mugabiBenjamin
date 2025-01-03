@@ -30,7 +30,8 @@ Here are some of the technologies and tools I work with:
 ### Tools and Platforms
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-- GitHub
+- [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mugabiBenjamin)
+
 
 
 ### Other Skills
@@ -74,18 +75,6 @@ For a complete list of my projects, please visit my [repositories](https://githu
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![Git](https://img.shields.io/badge/version%20control-Git-orange?logo=git)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mugabiBenjamin)
-
-[![Git Clone](https://img.shields.io/badge/clone-repo-blue?logo=git)](https://github.com/mugabiBenjamin)
-
-[![GitHub forks](https://img.shields.io/github/forks/mugabiBenjamin)](https://github.com/mugabiBenjamin)
-
-[![GitHub stars](https://img.shields.io/github/stars/mugabiBenjamin)](https://github.com/mugabiBenjamin)
 
 
 ## 📫 How to Reach Me
