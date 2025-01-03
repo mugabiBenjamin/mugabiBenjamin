@@ -75,6 +75,18 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+![Git](https://img.shields.io/badge/version%20control-Git-orange?logo=git)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mugabiBenjamin)
+
+[![Git Clone](https://img.shields.io/badge/clone-repo-blue?logo=git)](https://github.com/mugabiBenjamin)
+
+[![GitHub forks](https://img.shields.io/github/forks/mugabiBenjamin)](https://github.com/mugabiBenjamin)
+
+[![GitHub stars](https://img.shields.io/github/stars/mugabiBenjamin)](https://github.com/mugabiBenjamin)
+
 
 ## 📫 How to Reach Me
 
