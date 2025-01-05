@@ -32,7 +32,9 @@ Here are some of the technologies and tools I work with:
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 - [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mugabiBenjamin)
 
-
+### Operating Systems
+- ![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Other Skills
 - Problem-solving
