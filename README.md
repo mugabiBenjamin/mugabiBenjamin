@@ -34,7 +34,6 @@ Here are some of the technologies and tools I work with:
 
 ### Operating Systems
 - ![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Other Skills
 - Problem-solving
