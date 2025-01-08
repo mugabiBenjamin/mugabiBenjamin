@@ -73,11 +73,6 @@ For a complete list of my projects, please visit my [repositories](https://githu
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mugabiBenjamin&theme=dark)](https://git.io/streak-stats)
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 📫 How to Reach Me
 
 - **Email:** mugabiben6@gmail.com
