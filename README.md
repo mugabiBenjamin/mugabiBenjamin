@@ -60,22 +60,22 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 ## 🌐 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=dark)
 
 
 ## 📈 GitHub Stats
 
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=radical)
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=dark)
 
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=dark)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mugabiBenjamin&theme=dark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 How to Reach Me
