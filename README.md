@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a
 - **Education:** Bachelor's degree in Software Engineering at Victoria University, Kampala
 - **Interests:** Coding, gadgets, and learning new stuff
 
-I am currently a second-year student with a strong passion for software development. My primary focus is on web development using modern tools and technologies, but I'm always eager to explore new areas of software engineering.
+With a strong passion for software development, I'm currently in my sophomore year, focusing primarily on web development with modern tools and technologies, while staying open to exploring other software engineering areas.
 
 
 ## 🛠️ Skills
