@@ -58,7 +58,7 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=dark)
 
 
 ## 📫 How to Reach Me
@@ -86,4 +86,4 @@ I'm always open to new opportunities and collaborations. Let's connect and creat
 
 Thank you for visiting my profile! Have a great day! 😊
 
-[Back to Top](#hi-there-im-mugabi-benjamin-)
+[Back to Top](#hi-there-im-mugabi-benjamin)
