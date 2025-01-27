@@ -70,7 +70,7 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=radical)
 
 
 ## 📫 How to Reach Me
