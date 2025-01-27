@@ -43,18 +43,6 @@ Here are some of the technologies and tools I work with:
 
 ## 🔭 Projects
 
-<!-- Here are some of the projects I've worked on:
-
- ### Online Grocery App
-**Description:** A web application for online grocery shopping.  
-**Technologies Used:** Laravel, TailwindCSS, MySQL  
-**Repository:** [Online Grocery App](https://github.com/mugabiBenjamin/online_grocery_app)
-
-### AI Transfer
-**Description:** An AI-powered file transfer tool.  
-**Technologies Used:** JavaScript, PostgreSQL  
-**Repository:** [AI Transfer](https://github.com/mugabiBenjamin/ai_transfer)  -->
-
 For a complete list of my projects, please visit my [repositories](https://github.com/mugabiBenjamin?tab=repositories).
 
 
@@ -76,7 +64,6 @@ For a complete list of my projects, please visit my [repositories](https://githu
 ## 📫 How to Reach Me
 
 - **Email:** mugabiben6@gmail.com
-<!-- - **Phone:** +256778405701 -->
 - **LinkedIn:** [Mugabi Benjamin](https://www.linkedin.com/in/mugabi-benjamin-156603224/)
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and development!
