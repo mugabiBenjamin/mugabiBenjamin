@@ -78,7 +78,7 @@ I'm currently expanding my knowledge in:
 
 I'm always open to new opportunities and collaborations. Let's connect and create something amazing together!
 
----
+## 
 
 Thank you for visiting my profile! Have a great day! 😊
 
