@@ -1,4 +1,4 @@
-## Hi there, I'm Mugabi Benjamin 👋
+## Hi there, I'm Mugabi Benjamin👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a passion for building innovative solutions and contributing to the open-source community. Below you'll find more information about me, my skills, and my projects.
 
@@ -80,4 +80,4 @@ I'm always open to new opportunities and collaborations. Let's connect and creat
 
 Thank you for visiting my profile! Have a great day! 😊
 
-[Back to Top](#hi-there-im-mugabi-benjamin)
+[🔝Back to Top](#hi-there-im-mugabi-benjamin)
