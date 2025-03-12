@@ -37,7 +37,7 @@ Here are some of the technologies and tools I work with:
 
 ### Operating Systems
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />
 
 ### Other Skills
 
@@ -68,14 +68,13 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and development!
 
-
 ## 🌱 Currently Learning
 
 I'm currently expanding my knowledge in:
+
 - Laravel
 - Flutter
 - Express JS
-
 
 ## 💬 Let's Connect
 
