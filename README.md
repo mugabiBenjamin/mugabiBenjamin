@@ -73,7 +73,8 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 I'm currently expanding my knowledge in:
 
 - Laravel
-- Flutter
+- Fast API
+- Flask
 - Express JS
 
 ## 💬 Let's Connect
