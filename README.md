@@ -75,7 +75,6 @@ I'm currently expanding my knowledge in:
 - Laravel
 - Fast API
 - Flask
-- Express JS
 
 ## 💬 Let's Connect
 
