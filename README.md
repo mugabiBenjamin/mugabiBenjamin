@@ -39,6 +39,10 @@ Here are some of the technologies and tools I work with:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="ubuntu" />
 
+### Design & Prototyping
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma" />
+
 ### Other Skills
 
 - Problem-solving
