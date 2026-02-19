@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a
 - **Location:** Kampala, Uganda
 - **Profession:** Software Engineering Student
 - **Education:** Bachelor's degree in Software Engineering at Victoria University, Kampala
-- **Interests:** Coding, gadgets, and learning new stuff
+- **Interests:** Coding, CTFs, and learning new stuff
 
-With a strong passion for software development, I'm currently in my sophomore year, focusing primarily on web development with modern tools and technologies, while staying open to exploring other software engineering areas.
+With a strong passion for software development, I'm currently in my senior year, focusing primarily on web development with modern tools and technologies, while staying open to exploring other software engineering areas.
 
 ## 🛠️ Skills
 
@@ -74,9 +74,7 @@ Feel free to reach out to me if you have any questions, collaboration ideas, or 
 
 I'm currently expanding my knowledge in:
 
-- Laravel
-- Fast API
-- Flask
+- NextJS
 
 ## 💬 Let's Connect
 
