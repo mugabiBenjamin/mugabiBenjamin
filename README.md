@@ -12,40 +12,60 @@ Currently focused on:
 - Networking
 - Cloud Technologies
 
-## 🛠️ Skills
+> Backend • Cybersecurity • DevOps • Open Source
+
+## About Me
+
+- Interested in Offensive Security and Bug Bounty
+- Building backend systems with Python & FastAPI
+- Daily Linux user
+- Exploring Docker, Kubernetes and Cloud
+- Constantly solving CTFs and Hack The Box labs
+- Open-source contributor in progress
+
+## Skills
 
 Here are some of the technologies and tools I work with:
 
 ### Languages
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="html" />
+- Python
+- TypeScript
+- PHP
 
-### Frameworks and Libraries
+### Backend
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="react" />
+- FastAPI
+- RestAPIs
 
-### Tools and Platforms
+### Frontend
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"  alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### DevOps & Cloud
+
+- Docker
+- Git
+- GitHub Actions
+
+### Security
+
+- Burp Suite
+- OWASP ZAP
+- Nmap & RustScan
+- Wireshark
 
 ### Operating Systems
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="ubuntu" />
-
-### Other Skills
-
-- Problem-solving
-- Debugging
-- Collaboration
+- Ubuntu
+- Kali Linux
 
 ## 🔭 Projects
 
