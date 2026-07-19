@@ -1,16 +1,16 @@
-# Hi there, I'm Mugabi Benjamin👋
+# Hi there, I'm Mugabi Benjamin
 
-Welcome to my GitHub profile! I'm an enthusiastic and dedicated developer with a passion for building innovative solutions and contributing to the open-source community. Below you'll find more information about me, my skills, and my projects.
+Software Engineering student passionate about Backend Development, Cybersecurity, DevOps and Open Source.
 
-## 🚀 About Me
+I enjoy building secure web applications, automating workflows, solving CTF challenges, and learning how systems work under the hood.
 
-- **Name:** Mugabi Benjamin
-- **Location:** Kampala, Uganda
-- **Profession:** Software Engineering Student
-- **Education:** Bachelor's degree in Software Engineering at Victoria University, Kampala
-- **Interests:** Coding, CTFs, and learning new stuff
+Currently focused on:
 
-With a strong passion for software development, I'm currently in my senior year, focusing primarily on web development with modern tools and technologies, while staying open to exploring other software engineering areas.
+- API Security
+- Linux
+- Docker & CI/CD
+- Networking
+- Cloud Technologies
 
 ## 🛠️ Skills
 
