@@ -96,23 +96,27 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=dark)
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email:** <mugabiben6@gmail.com>
 - **LinkedIn:** [Mugabi Benjamin](https://www.linkedin.com/in/mugabi-benjamin-156603224/)
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and development!
 
-## 🌱 Currently Learning
+## Currently Learning
 
 I'm currently expanding my knowledge in:
 
-- NextJS
+- CI/CD
+- Testing
+- System Design
+- API Security
+- GitHub Actions
 
-## 💬 Let's Connect
+## Let's Connect
 
-I'm always open to new opportunities and collaborations. Let's connect and create something amazing together!
+If you're interested in collaborating on backend development, cybersecurity, DevOps or open-source projects, feel free to reach out.
 
-Thank you for visiting my profile! Have a great day! 😊
+Thanks for visiting!
 
 [🔝 Back to Top](#hi-there-im-mugabi-benjamin)
