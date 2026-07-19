@@ -67,15 +67,28 @@ Here are some of the technologies and tools I work with:
 - Ubuntu
 - Kali Linux
 
-## 🔭 Projects
+## Projects
 
 For a complete list of my projects, please visit my [repositories](https://github.com/mugabiBenjamin?tab=repositories).
 
-## 🌐 Top Languages
+## Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Contribution Snake
+
+![Snake animation](https://github.com/mugabiBenjamin/mugabiBenjamin/blob/output/github-contribution-grid-snake-dark.svg)
+
+## Contribution Graph
+
+[![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugabiBenjamin&theme=react)](https://github.com/mugabiBenjamin)
+
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=dark)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=dark)
 
