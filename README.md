@@ -93,7 +93,7 @@ JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░
 
 [![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugabiBenjamin&theme=react)](https://github.com/mugabiBenjamin)
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mugabiBenjamin&theme=dark)
 
@@ -120,4 +120,4 @@ If you're interested in collaborating on backend development, cybersecurity, Dev
 
 Thanks for visiting!
 
-[🔝 Back to Top](#hi-there-im-mugabi-benjamin)
+[Back to Top](#hi-there-im-mugabi-benjamin)
