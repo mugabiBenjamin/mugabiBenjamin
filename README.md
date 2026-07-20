@@ -78,19 +78,11 @@ For a complete list of my projects, please visit my [repositories](https://githu
 
 ## Contribution Snake
 
-![Snake animation](https://github.com/mugabiBenjamin/mugabiBenjamin/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/mugabiBenjamin/mugabiBenjamin/output/github-contribution-grid-snake-dark.svg)
 
 ## Contribution Graph
 
 [![Benjamin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mugabiBenjamin&theme=react)](https://github.com/mugabiBenjamin)
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugabiBenjamin&layout=compact&theme=dark)
-
-## GitHub Stats
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugabiBenjamin&show_icons=true&theme=dark)
 
 ## 🔥 GitHub Streak
 
