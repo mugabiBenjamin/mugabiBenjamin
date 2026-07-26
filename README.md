@@ -76,11 +76,11 @@ For a complete list of my projects, please visit my [repositories](https://githu
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 49 mins   ███████████████▓░░░░░░░░░   62.36 %
-JSON         1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-CSS          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TypeScript   5 hrs 49 mins   ███████████████░░░░░░░░░░   60.21 %
+JSON         1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Markdown     37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+CSS          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
