@@ -76,11 +76,11 @@ For a complete list of my projects, please visit my [repositories](https://githu
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     2 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
-Markdown                   2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
-XML                        1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-PHP                        57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Other                      46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Markdown                   1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+PHP                        57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+XML                        53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Docker                     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Bash                       35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
 ```
 
 <!--END_SECTION:waka-->
